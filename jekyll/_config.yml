@@ -63,7 +63,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-      title: "Lenny Kay"
+      name: "Lenny Kay"
 liquid:
   error_mode        : warn
   strict_filters    : false
