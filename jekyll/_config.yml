@@ -62,8 +62,8 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
-      name: "Lenny Kay"
+      layout: "page"
+      title: Lenny Kay
 liquid:
   error_mode        : warn
   strict_filters    : false
