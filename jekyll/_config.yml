@@ -57,12 +57,8 @@ timezone            : null
 
 quiet               : false
 verbose             : false
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "page"
+defaults: []
+
 liquid:
   error_mode        : warn
   strict_filters    : false
